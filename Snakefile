@@ -1,5 +1,3 @@
-asd
-
 rule all:
     input: "hello.txt", "howdy.txt"
     
